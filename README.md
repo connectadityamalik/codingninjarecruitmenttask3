@@ -19,8 +19,3 @@ pip install -r requirements.txt
 ```
 python EDTA_Analysis_Complete.py
 ```
-
-## Submission Details
-- Task: AIML Recruitment Task 1
-- Submit the GitHub repository link to the Google Form sent via SRM email.
-- Submission deadline: September 27, 2025, 11:59 PM IST
